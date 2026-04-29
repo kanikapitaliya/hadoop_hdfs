@@ -1,1 +1,1 @@
-# hadoop_hdfs
+# hadoop_hdfs.dfs
